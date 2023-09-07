@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+
+  font-family: "hotjar";
+  box-sizing: border-box;
+
+
+}
+
+@font-face {
+  font-family: 'hotjar';
+  src: url('./aseets/font/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1ZL7W0Q5nw.woff2') format('woff2');
+
+}
+
+
+html,
+body {
+  width: 100%;
+
+}
